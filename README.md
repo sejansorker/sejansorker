@@ -1,15 +1,3 @@
-## Hi there 👋  My Name is Sejan Sorker
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 # Hi 👋 I'm Sejan Sorkar Safi
 
 🚀 Frontend Developer | React Enthusiast | UI Focused
@@ -54,16 +42,8 @@ I’m a passionate Frontend Developer who loves building clean, responsive, and 
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sejan00&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sejan00&layout=compact&theme=radical)
-
----
-
 ## 📫 Connect With Me
-- 🌐 Portfolio: https://sejan00.netlify.app
-- 💼 LinkedIn: Add your LinkedIn link
+- 💼 LinkedIn: https://www.linkedin.com/in/sejansorker/
 - 📧 Email: your-email@gmail.com
 
 ---
