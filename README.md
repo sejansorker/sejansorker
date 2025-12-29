@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi there 👋  My Name is Sejan Sorker
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
