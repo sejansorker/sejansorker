@@ -44,7 +44,7 @@ I’m a passionate Frontend Developer who loves building clean, responsive, and 
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/sejansorker/
-- 📧 Email: your-email@gmail.com
+- 📧 Email: sejansorker@gmail.com
 
 ---
 
