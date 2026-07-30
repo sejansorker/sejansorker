@@ -10,8 +10,8 @@
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C" /></a>
   <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00FF9C" /></a>
   <a href="https://facebook.com/your-facebook" target="_blank"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00FF9C" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF9C" /></a>
-  <a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF9C" /></a>
+  <a href="sejansorker@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF9C" /></a>
+  <a href="https://sejan00.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF9C" /></a>
 </p>
 
 </div>
