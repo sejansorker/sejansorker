@@ -71,19 +71,6 @@ contact: sejansorker@gmail.com
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00FF9C,100:302B63&height=2&section=header&width=100%" width="100%" />
 
-### 📌 &nbsp;`ls ./featured-projects`
-
-<p align="center">
-  <a href="https://github.com/sejansorker/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sejansorker&repo=REPO_NAME_1&theme=dark&bg_color=0D1117&border_color=00FF9C&title_color=00FF9C" />
-  </a>
-  <a href="https://github.com/sejansorker/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sejansorker&repo=REPO_NAME_2&theme=dark&bg_color=0D1117&border_color=00FF9C&title_color=00FF9C" />
-  </a>
-</p>
-
-<br>
-
 ### 📊 &nbsp;`git log --stats`
 
 <p align="center">
