@@ -86,11 +86,9 @@ contact: sejansorker@gmail.com
 
 ### 📊 &nbsp;`git log --stats`
 
-### 📊 &nbsp;`git log --stats`
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sejansorker&show_icons=true&theme=dark&bg_color=0D1117&border_color=00FF9C&title_color=00FF9C&icon_color=00FF9C&text_color=E0E0E0" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sejansorker&theme=dark&background=0D1117&border=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=sejansorker&theme=dark&background=0D1117&border=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="49%" />
 </p>
 
 <p align="center">
