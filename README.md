@@ -7,9 +7,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&repeat=true&width=650&height=50&lines=const+dev+%3D+%7B+name%3A+%22Sejan+Sorker%22+%7D%3B;while(true)+%7B+code()%3B+coffee()%3B+%7D;console.log(%22Building+for+the+web...%22)%3B" alt="Typing SVG" />
 
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C" /></a>
-  <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00FF9C" /></a>
-  <a href="https://facebook.com/your-facebook" target="_blank"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00FF9C" /></a>
+  <a href="www.linkedin.com/in/sejansorker" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C" /></a>
+  <a href="https://www.facebook.com/sejansorker.safi" target="_blank"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00FF9C" /></a>
   <a href="sejansorker@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF9C" /></a>
   <a href="https://sejan00.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF9C" /></a>
 </p>
