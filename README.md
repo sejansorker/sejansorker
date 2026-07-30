@@ -42,7 +42,7 @@ role: Frontend Developer
 based_in: Bangladesh
 learning: React, Next.js, TypeScript
 open_to: Freelance & Collaboration
-contact: youremail@example.com
+contact: sejansorker@gmail.com
 ```
 
 <br>
