@@ -31,7 +31,6 @@ open_to: Freelance & Collaboration
 contact: sejansorker@gmail.com
 ```
 
-<br>
 
 ### ⚙️ &nbsp;`tech --stack`
 
