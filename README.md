@@ -33,7 +33,7 @@ console.log(sejan.motto());
 
 <br>
 
-### 📟 &nbsp;`whoami`
+### 📟 &nbsp;`Who am i`
 
 ```yaml
 name: Sejan Sorker
