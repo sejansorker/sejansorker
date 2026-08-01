@@ -18,19 +18,6 @@
 <br>
 
 ```javascript
-// sejan-sorker.js
-const sejan = {
-  role: "Frontend Web Developer",
-  stack: ["React", "Next.js", "TypeScript", "TailwindCSS"],
-  currentFocus: "Building smooth, animated, accessible UIs",
-  funFact: "console.log() is my debugger 😅",
-  motto: () => "Code. Break. Fix. Repeat.",
-};
-
-console.log(sejan.motto());
-// > "Code. Break. Fix. Repeat."
-```
-
 <br>
 
 ### 📟 &nbsp;`Who am i`
