@@ -17,16 +17,19 @@
 
 ### 👋 &nbsp;`About Me`
 
-I'm **Sejan Sorker**, a Frontend Developer based in Bangladesh, focused on building responsive, accessible and high-performance web interfaces. I turn design concepts into clean, maintainable code using HTML, CSS, JavaScript and modern frameworks like React and Next.js.
+I'm **Sejan Sorker**, a Frontend Developer based in Bangladesh, passionate about crafting responsive, accessible and high-performance web interfaces. I transform design concepts into clean, maintainable code using HTML, CSS, JavaScript and modern frameworks such as React and Next.js.
 
-I care about pixel-accurate UI, reusable component architecture and smooth user experiences across all devices. I'm continuously growing my skills in TypeScript and the modern React ecosystem, and I'm open to freelance projects and collaboration opportunities.
+I'm now expanding my expertise toward **Full Stack Development**, working with Node.js and server-side concepts to build complete, end-to-end web applications, from intuitive user interfaces to the logic and data layers behind them.
+
+What drives me is writing reusable components, paying close attention to detail, and delivering smooth user experiences on every device. I'm open to freelance projects, collaboration and opportunities to grow with a team.
 
 📍 Bangladesh &nbsp;|&nbsp; 📧 sejansorker@gmail.com &nbsp;|&nbsp; 🌐 [sejan00.netlify.app](https://sejan00.netlify.app/)
 
 ### 🚀 &nbsp;`Currently`
 
 - 🔭 Building a tourism website with Next.js and Tailwind CSS
-- 🌱 Learning TypeScript and advanced React patterns
+- 🌱 Learning Full Stack Development (Node.js, databases and REST APIs)
+- 📘 Strengthening my skills in TypeScript and advanced React patterns
 - 🤝 Open to freelance projects and collaboration
 
 ### ⚙️ &nbsp;`tech --stack`
