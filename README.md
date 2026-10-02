@@ -17,9 +17,11 @@
 
 ### 👋 &nbsp;`About Me`
 
-Hi, I'm **Sejan**, a frontend developer from Bangladesh. I enjoy turning designs into clean, fast and responsive interfaces. I'm currently levelling up with modern React tooling and I'm open to freelance work and collaboration.
+I'm **Sejan Sorker**, a Frontend Developer based in Bangladesh, focused on building responsive, accessible and high-performance web interfaces. I turn design concepts into clean, maintainable code using HTML, CSS, JavaScript and modern frameworks like React and Next.js.
 
-📍 Bangladesh &nbsp;|&nbsp; 📧 sejansorker@gmail.com
+I care about pixel-accurate UI, reusable component architecture and smooth user experiences across all devices. I'm continuously growing my skills in TypeScript and the modern React ecosystem, and I'm open to freelance projects and collaboration opportunities.
+
+📍 Bangladesh &nbsp;|&nbsp; 📧 sejansorker@gmail.com &nbsp;|&nbsp; 🌐 [sejan00.netlify.app](https://sejan00.netlify.app/)
 
 ### 🚀 &nbsp;`Currently`
 
@@ -38,12 +40,18 @@ Hi, I'm **Sejan**, a frontend developer from Bangladesh. I enjoy turning designs
 ### 📊 &nbsp;`git log --stats`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sejansorker&show_icons=true&theme=dark&bg_color=0D1117&border_color=00FF9C&title_color=00FF9C&icon_color=00FF9C&text_color=E0E0E0" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sejansorker&show_icons=true&hide_rank=true&theme=dark&bg_color=0D1117&border_color=00FF9C&title_color=00FF9C&icon_color=00FF9C&text_color=E0E0E0" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=sejansorker&theme=dark&background=0D1117&border=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="49%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejansorker&layout=compact&theme=dark&bg_color=0D1117&border_color=00FF9C&title_color=00FF9C&text_color=E0E0E0" width="55%" />
+</p>
+
+### 🐍 &nbsp;`contribution-graph.exe`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sejansorker/sejansorker/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
 </p>
 
 <div align="center">
